@@ -1,2 +1,2 @@
-%XGBoost prediciotn
-%%Predicting data with XGBoost
+# XGBoost prediciotn
+Predicting data with XGBoost
